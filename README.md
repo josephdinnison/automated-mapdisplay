@@ -28,5 +28,5 @@
 
 * This script runs in the ArcMap Python window. ArcMap is required.
 
-* Additionally, a geodatabase must be set up preemptively for the script to pull the necessary files.
+* Additionally, a geodatabase must be set up preemptively for the script to pull the necessary layer files.
 
